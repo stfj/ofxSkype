@@ -1,0 +1,10 @@
+right now this is extremely ghetto.
+it provides a basic framework for sending text commands to Macintosh Skype and receiving status messages back.
+
+I have included an example that uses Skype to place a call, and hangs up if the call is answered by an answering machine.
+
+Potentially this is very powerful. It could be used to send and receive SMS messages very easily, and also to place and make phone calls. Almost every function of the Skype desktop application is exposed to this api.
+
+it is based VERY HEAVILY off of skype4cmd by Sushant Verma -> http://www.trynull.com/2011/02/01/controlling-skype-via-terminal-on-a-mac/
+
+at the moment I don't have time to make this a very nice plugin, but I wanted to post it since i suspect someone will, and it's very powerful and friendly once you get the hang of it.
